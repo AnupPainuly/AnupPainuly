@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">- 👋 Hi, I’m @AnupPainuly
+- 👀 I’m interested in Data Science.
+* 🔭 I’m currently pursuing big data analytics course from CDAC.
+* 🌱 I’m currently learning ML.
+* ❤️ I love computing on linux. I swallowed the red pill of open source and never looked back.
+</h2>
 
 ###
 
