@@ -4,12 +4,16 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnupPainuly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnupPainuly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnupPainuly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&hide=TeX,SWIG,html,HTML,TeX,vimscript,javaScript,Shell" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"  />
+
+###
+
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnupPainuly"/>
 
 ###
 
