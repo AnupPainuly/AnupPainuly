@@ -13,7 +13,7 @@
 
 ###
 
-<img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnupPainuly"/>
+<img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnupPainuly&theme=dark"/>
 
 
 ###
