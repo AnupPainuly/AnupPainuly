@@ -4,8 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnupPainuly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img align="center" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupPainuly&langs_count=8&theme=dark&layout=compact&hide=TeX,SWIG,html,HTML,TeX,vimscript,javaScript,Shell)](https://github.com/AnupPainuly/github-readme-stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnupPainuly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&hide=Tex" height="150" alt="languages graph"  />
 </div>
 
 ###
